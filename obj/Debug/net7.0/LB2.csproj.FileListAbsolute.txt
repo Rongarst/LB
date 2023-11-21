@@ -1,0 +1,14 @@
+C:\Users\User\source\LBC#\LB2\bin\Debug\net7.0\LB2.exe
+C:\Users\User\source\LBC#\LB2\bin\Debug\net7.0\LB2.deps.json
+C:\Users\User\source\LBC#\LB2\bin\Debug\net7.0\LB2.runtimeconfig.json
+C:\Users\User\source\LBC#\LB2\bin\Debug\net7.0\LB2.dll
+C:\Users\User\source\LBC#\LB2\bin\Debug\net7.0\LB2.pdb
+C:\Users\User\source\LBC#\LB2\obj\Debug\net7.0\LB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\LBC#\LB2\obj\Debug\net7.0\LB2.AssemblyInfoInputs.cache
+C:\Users\User\source\LBC#\LB2\obj\Debug\net7.0\LB2.AssemblyInfo.cs
+C:\Users\User\source\LBC#\LB2\obj\Debug\net7.0\LB2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\LBC#\LB2\obj\Debug\net7.0\LB2.dll
+C:\Users\User\source\LBC#\LB2\obj\Debug\net7.0\refint\LB2.dll
+C:\Users\User\source\LBC#\LB2\obj\Debug\net7.0\LB2.pdb
+C:\Users\User\source\LBC#\LB2\obj\Debug\net7.0\LB2.genruntimeconfig.cache
+C:\Users\User\source\LBC#\LB2\obj\Debug\net7.0\ref\LB2.dll
